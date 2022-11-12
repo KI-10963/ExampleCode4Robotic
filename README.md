@@ -2,6 +2,7 @@
 
 some example code for the people who join us programmers
 this is for OnBotJava, it is harder for some people if you dont want to type alot you can just use Blocks
+you can check out the example in TeleOPs i will add more later
 
 ## Setup
 
