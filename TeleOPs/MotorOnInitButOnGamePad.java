@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 @TeleOp
 // the word after class it needs to be the same name as 
 //the file name that you are creating
-public class MotorOnInit extends LinearOpMode {
+public class MotorOnInitButOnGamePad extends LinearOpMode {
 
 
   // maka a var for the Motors so that the java robot can add the thing into a var which we can use for later
